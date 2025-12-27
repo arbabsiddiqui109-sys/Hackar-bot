@@ -17,7 +17,7 @@ module.exports = {
     const { threadID, messageID } = event;
 
     const ownerPics = [
-      ',
+      https://postimg.cc/DWxfvRym',
       '',
       '',
       ''
