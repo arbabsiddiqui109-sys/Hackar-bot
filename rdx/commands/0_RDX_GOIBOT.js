@@ -181,7 +181,7 @@ const funnyResponses = [
   "Mujhe kyun yaad kiya? 🥺",
   "Acha, bolo kya baat hai 😊",
   "Main busy thi thodi, ab bolo 💅",
-  "Haan ji, Mano bol rahi hai 🤖✨"
+  "Haan ji, Mahi bol rahi hai 🤖✨"
 ];
 
 const ownerResponses = [
