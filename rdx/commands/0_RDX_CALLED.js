@@ -3,7 +3,7 @@ module.exports = {
     name: 'called',
     aliases: ['callme', 'calladmin'],
     description: 'Call admin - sends message to admin inbox',
-    credits: 'SARDAR RDX',
+    credits: 'Dani',
     usage: 'called [message]',
     category: 'Utility',
     groupOnly: true,
